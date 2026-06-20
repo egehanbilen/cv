@@ -4,6 +4,8 @@ Single-file HTML curriculum vitae for **Dr. Egehan Bilen**, Specialist Physician
 Obstetrics & Gynecology (İzmir, Türkiye) and developer of
 [ObGynAssist](https://obgynassist.com).
 
+**🔗 Live:** <https://egehanbilen.github.io/cv/>
+
 ## Usage
 
 - Open **`index.html`** in any modern browser.
