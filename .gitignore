@@ -1,0 +1,6 @@
+# Local working copies — not published
+cv.html
+variant-*.html
+
+# macOS
+.DS_Store
